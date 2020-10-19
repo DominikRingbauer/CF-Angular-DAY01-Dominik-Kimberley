@@ -1,0 +1,12 @@
+#benefits {
+	
+	opacity: .5;
+	background-size: auto;
+	max-width: 100%;
+	height: auto;
+}
+
+.overlay {
+	background-color: rgb(7,60,92);
+	opacity: .5;
+}
